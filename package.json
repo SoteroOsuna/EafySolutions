@@ -1,7 +1,6 @@
 {
   "main": "server.js",
   "scripts": {
-    "test": "jest",
     "start": "node server.js"
   },
   "repository": {
