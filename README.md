@@ -1,2 +1,1 @@
-# EafySolutions
-Reto de 6to Semestre
+# EafyHeroku

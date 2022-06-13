@@ -1,0 +1,110 @@
+header {
+    background-color: rgb(191, 232, 240);
+}
+
+footer {
+    background-color: black;
+}
+
+.micontenedor{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.row{
+    min-height: 10rem;
+}
+[class^=col]{
+    padding: 50px 15px;
+    background: #fbefcf;
+}
+
+body {
+    background-color: white;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+    border: 0px;
+    
+}
+h1 {
+    text-align: center;
+}
+
+.cantidad {
+    border: 1px solid cyan;
+    text-align: right;
+}
+
+.tituloCentro {
+    text-align: center;
+}
+.porcentaje {
+    text-align: right;
+}
+
+.cantidadN {
+    border: 1px solid cyan;
+    text-align: right;
+    color: red;
+}
+.texto-total {
+    text-align: center;
+}
+.texto-suma {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.activos {
+    width: 50%;
+    height: 95%;
+    background-color: white;
+    margin: 10px;
+}
+.pasivos-capital {
+    width: 50%;
+    height: 95%;
+    background-color: white;
+    margin: 10px;
+}
+.pasivos {
+    width: 100%;
+    height: 50%;
+    background-color: white;
+}
+.capital {
+    width: 100%;
+    height: 50%;
+    background-color: white;
+}
+.sumas {
+    height: 100px;
+    width: 50%;
+}
+.titulo-seccion {
+    text-align: center;
+}
+.subtitulo-seccion {
+    text-align: left;
+    font-weight: normal;
+}
+.caja {
+    border: 1px solid rgb(70, 69, 69);
+    background-color: white;
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+    line-height: 120px;
+    text-align: center;
+    margin: 5px;
+}
